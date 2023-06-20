@@ -1,4 +1,5 @@
 Employee-Tracking
+
 Employee-Tracking is a full-stack application built using .NET architecture that follows the 3-Tier architecture pattern. It provides a comprehensive solution for maintaining various employees of an organization, including their personal details such as salary, tasks, permissions, and the ability to add new employees, tasks, and permissions. The application uses Microsoft SQL Server Management Studio to manage the underlying database.
 
 Table of Contents:-
