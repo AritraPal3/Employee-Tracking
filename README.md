@@ -20,10 +20,9 @@ Permission management: Manage access permissions for employees, granting or revo
 New employee onboarding: Streamline the process of adding new employees to the organization, including assigning tasks and setting permissions.
 Database integration: The application seamlessly integrates with Microsoft SQL Server Management Studio to store and retrieve data securely.
 Technologies Used
-.NET Framework or .NET Core 
-ASP.NET MVC or ASP.NET Core MVC 
+.NET Framework or .NET Core ,
 Microsoft SQL Server Management Studio 
-Entity Framework 
+
 Installation
 Clone the repository:
 bash
