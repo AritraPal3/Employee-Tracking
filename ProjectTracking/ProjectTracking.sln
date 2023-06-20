@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\BLL\BLL.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{336C64BB-D809-4630-87DD-9B4C2617FD7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetsonnelTracker", "..\PetsonnelTracker\PetsonnelTracker.csproj", "{8F7BD64B-5046-42D0-9C9E-788EBF14BC92}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelTracker", "..\PetsonnelTracker\PersonnelTracker.csproj", "{8F7BD64B-5046-42D0-9C9E-788EBF14BC92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
